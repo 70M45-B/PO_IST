@@ -12,5 +12,5 @@ Programming with Objects project 2023/2024
 
 ```bash
 # clone the repository
-git clone https://github.com/70M45-B/PO_IST.git
+git clone https://github.com/tomasbernardino/PO_IST.git
 ```
